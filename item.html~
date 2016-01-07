@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div id="dash">
+            <p >Inventobot - Quick-kart Ltd. </p>
+        </div>
+        <p id="time"> 1:15 PM 3/8/2015</p>
+        <table>
+            <tr>
+                <td>
+                    Time Stamp
+                </td>
+                <td>
+                    Storage Station
+                </td>
+                <td>
+                    Packaging station
+                </td>
+                <td>
+                    Dispatch Station
+                </td>
+            </tr>
+            <tr>
+                <td> 16:45:23</td>
+                <td> 4</td>
+                <td> 3 </td>
+                <td>1</td>
+
+            </tr>
+
+                <td>16:49:23</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+        
+            <tr>
+                <td>17:48:13</td>
+                <td>6</td>
+                <td>4</td>
+                <td>2</td>
+
+            </tr>
+        
+          <tr>
+                <td>17:51:13</td>
+                <td>4</td>
+                <td>5</td>
+                <td>4</td>
+
+            </tr>
+            
+            
+        </table>
+        
+        <div id="user">
+            <p id="op">Operator Name</p>
+            <p>Jay Patravali</p>
+            <img src="IMG_20150308_012750.jpg">
+        </div>
+    </body>
+    <footer>
+        <a href="index.html">Home Page</a>
+    </footer>
+
+</html>
